@@ -1,0 +1,15 @@
+{
+    "domain": "petsafe_scoopfree",
+    "name": "Petsafe Scoopfree",
+    "version": "0.0.5",
+    "config_flow": true,
+    "documentation": "https://github.com/crslen/petsafe_scoopfree",
+    "requirements": ["petsafe_scoopfree==0.0.1"],
+    "ssdp": [],
+    "zeroconf": [],
+    "homekit": {},
+    "dependencies": [],
+    "codeowners": ["@crslen"],
+    "iot_class": "cloud_polling"
+  }
+  

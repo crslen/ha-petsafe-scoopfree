@@ -1,0 +1,6 @@
+{
+    "name": "Petsafe Scoopfree",
+    "domains": ["sensor", "button"],
+    "iot_class": "Cloud Polling",
+    "homeassistant": "2022.7.0"
+}
